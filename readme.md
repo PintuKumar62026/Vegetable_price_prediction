@@ -214,7 +214,6 @@ Evaluation Metrics:
 ---
 
 # 👨‍💻 Author
-
-Sonu Kumar
+Pintu Kumar
 
 Software Developer | Machine Learning Enthusiast
