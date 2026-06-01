@@ -1,0 +1,501 @@
+Vegetable,Season,Month,Temp,Disaster,Condition,Price_per_kg
+Ladyfinger,Monsoon,7,27,0,Poor,39
+Tomato,Winter,12,25,1,Average,103
+Radish,Summer,12,20,1,Average,92
+Radish,Monsoon,3,45,1,Poor,70
+Bitter Gourd,Monsoon,8,17,0,Good,64
+Cucumber,Monsoon,10,22,0,Good,35
+Cauliflower,Summer,4,30,0,Poor,38
+Peas,Monsoon,4,40,1,Average,133
+Cabbage,Winter,12,14,0,Poor,10
+Beans,Winter,10,34,1,Poor,104
+Beans,Winter,8,42,1,Good,163
+Capsicum,Summer,3,40,1,Average,170
+Onion,Summer,7,36,1,Average,112
+Spinach,Monsoon,1,33,0,Good,36
+Brinjal,Winter,10,39,0,Poor,43
+Cabbage,Winter,9,37,1,Poor,45
+Onion,Spring,10,31,0,Poor,33
+Pumpkin,Monsoon,7,27,0,Poor,22
+Peas,Spring,7,41,1,Average,95
+Carrot,Summer,9,44,1,Good,147
+Beans,Summer,8,29,0,Average,74
+Ladyfinger,Spring,10,20,0,Good,67
+Bitter Gourd,Winter,8,16,0,Good,70
+Radish,Spring,6,29,0,Poor,12
+Capsicum,Summer,3,26,1,Good,136
+Carrot,Winter,6,42,1,Good,128
+Cauliflower,Summer,6,15,0,Good,52
+Brinjal,Summer,7,17,1,Good,107
+Beans,Summer,3,21,0,Poor,69
+Spinach,Winter,8,45,1,Good,117
+Capsicum,Spring,12,40,1,Poor,95
+Carrot,Monsoon,6,15,0,Poor,32
+Spinach,Monsoon,12,23,1,Average,101
+Pumpkin,Monsoon,3,20,0,Poor,13
+Potato,Winter,7,36,1,Average,92
+Spinach,Winter,12,39,1,Poor,92
+Carrot,Winter,9,44,1,Average,91
+Tomato,Winter,11,38,1,Average,76
+Ladyfinger,Spring,1,33,1,Average,94
+Ladyfinger,Winter,2,43,1,Average,143
+Carrot,Spring,2,21,1,Poor,120
+Cucumber,Spring,1,34,1,Average,94
+Onion,Spring,11,36,0,Poor,38
+Cucumber,Winter,7,23,0,Good,44
+Brinjal,Summer,7,37,0,Average,45
+Cabbage,Winter,9,37,0,Good,61
+Radish,Summer,6,12,1,Average,61
+Radish,Spring,11,22,0,Good,45
+Tomato,Summer,9,21,0,Good,56
+Beans,Monsoon,11,29,0,Poor,67
+Cabbage,Winter,3,11,1,Poor,61
+Spinach,Spring,5,14,0,Good,40
+Carrot,Spring,1,29,0,Average,47
+Pumpkin,Summer,10,28,0,Average,26
+Potato,Winter,4,22,1,Good,99
+Peas,Spring,10,40,1,Good,110
+Brinjal,Spring,8,45,1,Good,90
+Capsicum,Spring,2,36,0,Poor,86
+Potato,Monsoon,2,24,1,Poor,78
+Beans,Winter,11,27,0,Average,73
+Pumpkin,Monsoon,6,31,0,Poor,11
+Spinach,Winter,9,20,1,Good,76
+Onion,Summer,3,37,1,Average,108
+Potato,Winter,9,20,1,Poor,74
+Pumpkin,Monsoon,1,15,0,Good,42
+Spinach,Summer,3,10,0,Average,29
+Bottle Gourd,Summer,1,37,0,Average,55
+Bottle Gourd,Winter,12,42,1,Poor,107
+Peas,Spring,8,26,0,Good,80
+Pumpkin,Monsoon,6,42,0,Average,43
+Bottle Gourd,Spring,7,30,1,Good,85
+Bottle Gourd,Spring,10,34,0,Average,30
+Bottle Gourd,Winter,10,38,1,Average,113
+Spinach,Monsoon,2,23,1,Average,61
+Capsicum,Summer,12,14,1,Average,154
+Bitter Gourd,Spring,5,26,0,Good,73
+Beans,Monsoon,11,32,1,Average,101
+Spinach,Monsoon,7,12,0,Poor,20
+Capsicum,Winter,10,37,0,Good,106
+Brinjal,Winter,11,31,1,Poor,77
+Peas,Monsoon,12,41,1,Average,91
+Cabbage,Spring,1,31,1,Good,70
+Cabbage,Winter,7,11,0,Good,30
+Spinach,Winter,1,42,1,Average,69
+Ladyfinger,Spring,3,45,1,Poor,105
+Cauliflower,Spring,11,24,0,Poor,23
+Cauliflower,Winter,2,24,1,Average,98
+Carrot,Summer,2,31,1,Poor,80
+Ladyfinger,Winter,11,36,0,Poor,53
+Onion,Summer,6,34,0,Good,49
+Radish,Monsoon,5,38,0,Average,41
+Cucumber,Summer,11,13,1,Good,98
+Onion,Spring,3,25,0,Poor,27
+Cauliflower,Spring,9,16,0,Good,44
+Bottle Gourd,Winter,11,23,1,Good,120
+Tomato,Monsoon,8,16,0,Poor,34
+Tomato,Winter,8,20,0,Poor,42
+Carrot,Winter,6,39,1,Average,137
+Pumpkin,Summer,4,17,1,Good,96
+Cucumber,Winter,5,33,0,Good,47
+Cabbage,Summer,11,36,1,Poor,68
+Cucumber,Summer,12,23,1,Poor,93
+Brinjal,Winter,12,24,0,Good,38
+Peas,Winter,11,43,1,Average,106
+Bitter Gourd,Winter,8,31,1,Good,118
+Pumpkin,Winter,5,33,1,Good,124
+Cauliflower,Spring,2,35,0,Poor,20
+Onion,Monsoon,12,30,0,Average,32
+Cabbage,Summer,9,41,0,Good,52
+Capsicum,Summer,11,36,1,Average,167
+Brinjal,Summer,4,11,1,Average,63
+Ladyfinger,Monsoon,3,38,0,Good,91
+Peas,Spring,11,20,1,Good,156
+Onion,Monsoon,11,28,1,Poor,63
+Cabbage,Spring,9,19,1,Good,104
+Potato,Monsoon,10,13,1,Average,46
+Beans,Winter,2,41,1,Good,181
+Spinach,Winter,5,14,1,Poor,84
+Potato,Spring,11,45,1,Poor,44
+Pumpkin,Winter,7,29,0,Poor,19
+Radish,Summer,4,25,0,Good,36
+Brinjal,Winter,3,25,1,Good,101
+Capsicum,Summer,4,42,1,Average,141
+Pumpkin,Summer,4,10,0,Poor,23
+Capsicum,Summer,12,29,1,Poor,113
+Spinach,Summer,2,36,0,Good,55
+Bottle Gourd,Spring,6,38,1,Average,106
+Bitter Gourd,Monsoon,9,26,1,Average,96
+Potato,Winter,4,18,1,Poor,53
+Radish,Monsoon,2,43,1,Good,78
+Peas,Winter,3,30,0,Good,76
+Peas,Spring,8,22,0,Average,60
+Spinach,Summer,2,25,0,Average,28
+Tomato,Spring,10,27,1,Good,111
+Radish,Winter,6,32,0,Good,48
+Tomato,Monsoon,2,25,1,Poor,77
+Bitter Gourd,Winter,9,26,0,Average,64
+Tomato,Summer,4,39,0,Average,45
+Carrot,Spring,10,33,0,Good,54
+Spinach,Spring,2,14,1,Good,110
+Spinach,Summer,7,11,1,Good,88
+Brinjal,Monsoon,10,41,0,Good,48
+Cucumber,Monsoon,5,12,0,Good,46
+Radish,Spring,6,18,1,Average,112
+Capsicum,Summer,8,28,1,Average,151
+Pumpkin,Spring,8,20,0,Poor,24
+Pumpkin,Summer,7,37,1,Good,108
+Carrot,Monsoon,12,22,0,Good,66
+Spinach,Winter,7,32,1,Good,74
+Beans,Monsoon,1,36,0,Good,100
+Bitter Gourd,Winter,5,18,0,Average,60
+Bitter Gourd,Summer,6,27,0,Poor,44
+Bitter Gourd,Monsoon,1,21,0,Poor,53
+Brinjal,Monsoon,11,12,0,Average,33
+Bottle Gourd,Summer,1,35,0,Good,50
+Cucumber,Winter,3,10,0,Average,38
+Cauliflower,Monsoon,6,26,1,Poor,50
+Carrot,Spring,9,27,0,Poor,31
+Potato,Winter,9,16,1,Good,95
+Cauliflower,Winter,2,12,0,Poor,18
+Onion,Spring,5,29,1,Good,117
+Spinach,Spring,10,35,1,Good,74
+Brinjal,Summer,6,42,1,Poor,56
+Bitter Gourd,Monsoon,10,20,1,Good,113
+Peas,Spring,4,23,1,Poor,123
+Potato,Spring,11,33,1,Good,103
+Cabbage,Winter,11,18,1,Poor,39
+Beans,Monsoon,11,21,0,Good,87
+Cucumber,Winter,7,18,1,Poor,78
+Potato,Winter,5,22,1,Average,92
+Spinach,Winter,11,24,1,Good,84
+Cucumber,Winter,2,20,0,Poor,15
+Bottle Gourd,Summer,10,13,1,Good,83
+Spinach,Winter,12,34,1,Average,61
+Brinjal,Winter,2,24,1,Average,49
+Radish,Spring,9,43,1,Poor,90
+Peas,Summer,7,24,0,Poor,55
+Spinach,Summer,3,15,0,Average,29
+Onion,Winter,1,33,0,Good,40
+Cauliflower,Monsoon,4,42,0,Good,61
+Beans,Winter,9,31,0,Average,66
+Onion,Monsoon,5,23,0,Poor,32
+Pumpkin,Summer,8,33,1,Good,122
+Tomato,Winter,10,27,0,Average,50
+Cauliflower,Spring,1,18,0,Poor,27
+Brinjal,Spring,10,26,1,Poor,77
+Radish,Spring,12,24,0,Average,30
+Cauliflower,Monsoon,7,18,1,Good,80
+Brinjal,Monsoon,2,15,0,Poor,27
+Spinach,Summer,8,23,1,Poor,35
+Carrot,Monsoon,11,38,1,Good,143
+Cauliflower,Spring,7,13,0,Good,51
+Ladyfinger,Spring,8,21,0,Average,45
+Cucumber,Monsoon,8,39,1,Poor,74
+Pumpkin,Summer,11,33,0,Poor,31
+Potato,Monsoon,7,44,0,Poor,36
+Potato,Summer,3,16,1,Good,67
+Capsicum,Summer,6,14,1,Average,162
+Cucumber,Winter,10,45,0,Poor,33
+Onion,Monsoon,11,32,0,Average,39
+Spinach,Spring,3,45,0,Poor,32
+Radish,Summer,8,38,0,Average,35
+Peas,Summer,1,44,1,Poor,125
+Cucumber,Monsoon,5,35,0,Average,38
+Spinach,Monsoon,6,25,1,Poor,68
+Radish,Spring,7,32,0,Good,36
+Onion,Winter,2,44,0,Good,65
+Carrot,Summer,8,41,1,Poor,113
+Cauliflower,Summer,8,13,1,Good,108
+Bottle Gourd,Monsoon,5,11,0,Good,50
+Radish,Spring,5,16,1,Good,80
+Cauliflower,Winter,1,10,0,Good,47
+Beans,Summer,4,23,0,Poor,59
+Capsicum,Spring,6,25,1,Poor,123
+Bitter Gourd,Spring,9,13,1,Average,85
+Brinjal,Spring,6,20,0,Poor,22
+Carrot,Summer,8,28,1,Average,117
+Bitter Gourd,Monsoon,12,34,1,Good,150
+Tomato,Summer,6,10,0,Average,49
+Brinjal,Monsoon,6,15,0,Good,37
+Spinach,Summer,7,23,1,Good,68
+Tomato,Monsoon,4,27,0,Poor,38
+Onion,Summer,8,43,1,Average,107
+Spinach,Summer,1,22,1,Poor,88
+Bottle Gourd,Monsoon,1,34,1,Average,86
+Cucumber,Winter,6,42,1,Good,128
+Cauliflower,Summer,7,14,1,Poor,84
+Beans,Winter,3,30,0,Average,66
+Ladyfinger,Spring,4,20,1,Poor,72
+Bottle Gourd,Summer,4,42,0,Average,35
+Pumpkin,Winter,9,11,1,Poor,83
+Cucumber,Winter,9,21,1,Good,87
+Bitter Gourd,Monsoon,8,34,1,Poor,60
+Cabbage,Spring,10,32,0,Poor,25
+Brinjal,Summer,3,22,0,Poor,18
+Carrot,Winter,7,22,1,Poor,98
+Ladyfinger,Monsoon,8,11,0,Average,60
+Peas,Spring,3,34,1,Average,102
+Carrot,Summer,12,23,0,Good,59
+Carrot,Spring,3,20,1,Good,147
+Cabbage,Summer,3,22,1,Good,78
+Radish,Summer,6,40,1,Good,118
+Carrot,Monsoon,2,43,1,Poor,93
+Cabbage,Winter,4,29,1,Poor,57
+Spinach,Spring,1,28,0,Average,29
+Brinjal,Monsoon,7,25,1,Poor,91
+Carrot,Monsoon,6,28,1,Good,102
+Radish,Spring,1,13,0,Poor,23
+Cucumber,Monsoon,3,24,1,Poor,94
+Peas,Monsoon,4,44,1,Poor,141
+Pumpkin,Summer,8,10,0,Good,53
+Pumpkin,Monsoon,4,16,0,Good,44
+Tomato,Summer,3,38,0,Average,59
+Tomato,Winter,11,26,0,Average,36
+Potato,Monsoon,4,14,0,Poor,20
+Radish,Monsoon,8,30,0,Good,34
+Peas,Spring,11,22,0,Good,74
+Capsicum,Winter,5,44,1,Good,154
+Cucumber,Monsoon,11,18,1,Poor,95
+Potato,Winter,11,14,0,Good,37
+Capsicum,Spring,5,16,1,Average,130
+Peas,Spring,7,30,1,Average,122
+Tomato,Winter,3,44,0,Good,73
+Bitter Gourd,Monsoon,9,32,1,Good,142
+Cucumber,Summer,6,17,0,Average,30
+Radish,Summer,8,35,0,Good,30
+Bitter Gourd,Summer,8,37,1,Average,148
+Tomato,Spring,8,26,0,Good,54
+Ladyfinger,Summer,6,30,0,Poor,50
+Spinach,Summer,7,32,0,Poor,17
+Radish,Monsoon,2,21,0,Poor,16
+Radish,Summer,11,45,0,Poor,38
+Spinach,Summer,1,11,0,Average,30
+Cabbage,Winter,3,14,1,Poor,44
+Bottle Gourd,Summer,4,34,0,Good,39
+Carrot,Monsoon,2,14,1,Good,140
+Brinjal,Spring,1,11,1,Poor,97
+Tomato,Winter,2,14,1,Poor,76
+Pumpkin,Summer,8,29,0,Average,30
+Spinach,Monsoon,2,40,0,Good,37
+Tomato,Winter,6,34,1,Poor,66
+Cabbage,Winter,11,22,1,Average,68
+Cabbage,Monsoon,7,40,0,Good,56
+Ladyfinger,Winter,4,21,1,Good,80
+Tomato,Spring,3,34,0,Average,49
+Spinach,Spring,7,33,0,Poor,13
+Tomato,Winter,3,28,1,Average,67
+Capsicum,Winter,6,14,1,Average,119
+Capsicum,Monsoon,8,32,0,Poor,66
+Cabbage,Summer,5,34,1,Good,60
+Radish,Summer,8,45,1,Poor,85
+Cucumber,Monsoon,1,15,0,Average,30
+Bottle Gourd,Spring,12,21,0,Good,39
+Peas,Spring,1,21,1,Poor,87
+Onion,Winter,4,16,0,Poor,23
+Peas,Winter,4,12,0,Poor,48
+Cabbage,Summer,7,40,0,Poor,25
+Bitter Gourd,Winter,9,18,0,Poor,56
+Spinach,Monsoon,9,32,1,Good,134
+Beans,Summer,4,16,1,Good,157
+Brinjal,Winter,1,43,0,Average,48
+Bitter Gourd,Winter,4,24,0,Poor,46
+Beans,Summer,6,29,1,Good,125
+Peas,Spring,12,32,0,Average,67
+Carrot,Spring,12,24,0,Good,60
+Potato,Winter,8,20,0,Good,40
+Radish,Monsoon,12,29,0,Average,22
+Radish,Summer,11,34,1,Average,39
+Capsicum,Spring,12,28,1,Poor,145
+Cauliflower,Monsoon,6,35,0,Average,38
+Cauliflower,Monsoon,7,37,1,Poor,89
+Tomato,Winter,1,11,1,Poor,69
+Ladyfinger,Monsoon,9,43,0,Average,77
+Cabbage,Spring,3,24,0,Good,32
+Brinjal,Winter,12,15,0,Average,27
+Pumpkin,Winter,10,44,1,Poor,89
+Bottle Gourd,Winter,1,27,1,Good,112
+Potato,Summer,2,23,1,Good,88
+Onion,Summer,3,21,1,Good,99
+Bitter Gourd,Spring,10,30,1,Average,90
+Spinach,Spring,6,32,0,Good,46
+Brinjal,Summer,6,44,0,Good,51
+Radish,Spring,4,44,1,Average,115
+Radish,Spring,9,43,1,Good,59
+Bitter Gourd,Summer,9,25,0,Poor,41
+Pumpkin,Winter,5,42,0,Good,44
+Capsicum,Summer,1,24,1,Poor,113
+Bitter Gourd,Summer,3,24,0,Average,54
+Bitter Gourd,Winter,10,39,1,Poor,81
+Spinach,Summer,8,10,1,Good,78
+Beans,Winter,3,41,0,Good,101
+Bottle Gourd,Spring,5,26,1,Average,76
+Cauliflower,Winter,8,30,1,Poor,94
+Cucumber,Spring,6,29,1,Poor,57
+Spinach,Winter,7,25,1,Average,72
+Cabbage,Summer,12,32,1,Good,64
+Carrot,Summer,10,45,1,Poor,89
+Cauliflower,Spring,8,22,1,Poor,59
+Bitter Gourd,Summer,2,26,1,Good,133
+Peas,Spring,9,35,1,Poor,99
+Peas,Spring,4,14,0,Poor,48
+Brinjal,Spring,5,20,0,Poor,27
+Carrot,Winter,7,29,0,Poor,35
+Radish,Monsoon,5,37,0,Poor,16
+Onion,Summer,6,19,0,Average,34
+Spinach,Monsoon,10,32,1,Good,67
+Bitter Gourd,Summer,7,39,0,Poor,64
+Potato,Summer,12,41,1,Average,63
+Pumpkin,Winter,2,43,0,Good,48
+Capsicum,Spring,9,22,0,Average,79
+Onion,Summer,1,42,0,Poor,47
+Cauliflower,Summer,10,42,1,Average,72
+Spinach,Monsoon,11,31,1,Average,75
+Carrot,Winter,12,11,0,Poor,27
+Radish,Summer,10,23,1,Average,89
+Beans,Monsoon,5,20,1,Poor,116
+Radish,Summer,11,11,1,Average,50
+Carrot,Winter,2,38,1,Average,91
+Bitter Gourd,Spring,3,25,1,Average,131
+Spinach,Winter,8,23,0,Average,22
+Onion,Monsoon,5,43,1,Poor,111
+Ladyfinger,Summer,1,31,0,Good,55
+Brinjal,Winter,10,16,1,Poor,107
+Beans,Spring,12,42,0,Poor,90
+Cucumber,Summer,9,12,0,Poor,28
+Cauliflower,Summer,5,24,0,Average,45
+Ladyfinger,Monsoon,12,38,1,Good,105
+Cucumber,Summer,2,16,1,Average,102
+Carrot,Spring,5,23,1,Poor,99
+Spinach,Summer,3,38,1,Poor,104
+Brinjal,Summer,9,14,1,Poor,104
+Peas,Winter,3,15,0,Average,70
+Cauliflower,Spring,5,37,1,Good,81
+Brinjal,Monsoon,11,45,1,Average,104
+Spinach,Spring,4,39,0,Poor,22
+Cucumber,Monsoon,7,32,1,Average,104
+Bitter Gourd,Winter,2,10,0,Average,62
+Ladyfinger,Monsoon,8,44,1,Poor,112
+Beans,Summer,1,27,0,Good,74
+Ladyfinger,Summer,4,19,1,Good,134
+Brinjal,Spring,6,33,0,Poor,19
+Brinjal,Spring,3,15,1,Good,72
+Radish,Monsoon,7,39,0,Average,37
+Pumpkin,Monsoon,10,14,0,Poor,13
+Bitter Gourd,Summer,7,39,1,Average,85
+Onion,Winter,8,29,1,Average,80
+Ladyfinger,Spring,2,38,0,Poor,58
+Pumpkin,Winter,6,41,0,Good,59
+Bitter Gourd,Summer,10,43,1,Average,99
+Potato,Winter,4,38,0,Poor,45
+Cabbage,Monsoon,6,27,0,Good,40
+Ladyfinger,Spring,9,43,0,Average,58
+Cucumber,Summer,10,15,0,Good,43
+Beans,Winter,12,45,0,Good,96
+Onion,Spring,9,41,1,Average,80
+Ladyfinger,Summer,10,23,0,Good,64
+Pumpkin,Monsoon,1,21,1,Average,69
+Tomato,Spring,1,32,0,Average,45
+Carrot,Monsoon,9,19,0,Good,52
+Capsicum,Monsoon,1,39,0,Good,126
+Beans,Spring,1,40,0,Average,82
+Radish,Winter,7,33,1,Good,68
+Radish,Spring,10,31,1,Poor,89
+Bitter Gourd,Spring,2,12,1,Poor,84
+Tomato,Spring,12,41,0,Good,65
+Capsicum,Summer,7,45,0,Good,114
+Spinach,Summer,4,27,0,Average,27
+Cucumber,Winter,10,18,1,Average,80
+Cucumber,Winter,12,20,1,Poor,91
+Spinach,Winter,9,42,1,Poor,87
+Beans,Monsoon,4,33,1,Average,152
+Bottle Gourd,Monsoon,12,33,1,Average,80
+Brinjal,Monsoon,3,18,1,Poor,76
+Peas,Winter,8,32,0,Good,66
+Pumpkin,Spring,7,25,0,Poor,22
+Onion,Summer,9,37,1,Average,118
+Pumpkin,Spring,6,28,1,Average,96
+Cucumber,Monsoon,2,27,0,Average,33
+Beans,Spring,3,24,1,Good,146
+Cabbage,Summer,2,20,0,Poor,20
+Ladyfinger,Summer,12,13,0,Good,54
+Cauliflower,Summer,1,31,1,Average,65
+Pumpkin,Summer,7,24,0,Good,44
+Cucumber,Spring,8,38,0,Good,57
+Peas,Monsoon,5,20,0,Good,74
+Beans,Spring,4,25,1,Good,158
+Tomato,Summer,5,33,1,Poor,65
+Radish,Winter,2,10,0,Good,39
+Brinjal,Monsoon,12,16,0,Poor,24
+Peas,Spring,2,10,0,Poor,60
+Tomato,Monsoon,4,36,1,Good,136
+Cabbage,Winter,2,25,1,Poor,35
+Carrot,Monsoon,4,44,0,Poor,48
+Beans,Winter,8,13,0,Good,80
+Beans,Monsoon,3,26,1,Average,126
+Radish,Winter,11,16,1,Good,91
+Potato,Monsoon,9,45,0,Average,51
+Bitter Gourd,Winter,11,30,1,Average,91
+Onion,Monsoon,10,19,0,Average,35
+Bitter Gourd,Spring,12,10,1,Average,78
+Cabbage,Monsoon,4,25,1,Good,75
+Cucumber,Winter,7,14,0,Poor,21
+Pumpkin,Winter,4,42,0,Poor,33
+Potato,Monsoon,1,33,1,Good,51
+Bottle Gourd,Winter,7,45,1,Average,71
+Bitter Gourd,Spring,4,43,1,Poor,90
+Peas,Winter,5,19,1,Poor,94
+Beans,Spring,7,34,1,Average,151
+Brinjal,Monsoon,7,24,1,Average,62
+Tomato,Summer,2,41,1,Good,99
+Brinjal,Spring,5,25,1,Poor,50
+Bottle Gourd,Winter,8,19,1,Average,107
+Carrot,Summer,1,25,0,Poor,40
+Radish,Spring,12,41,0,Good,39
+Bitter Gourd,Spring,6,23,0,Poor,44
+Potato,Monsoon,8,10,1,Average,101
+Ladyfinger,Summer,8,11,1,Good,104
+Tomato,Spring,1,31,0,Poor,27
+Radish,Spring,1,25,0,Poor,14
+Brinjal,Monsoon,9,29,0,Good,51
+Beans,Winter,11,37,1,Average,103
+Cucumber,Monsoon,12,33,0,Good,33
+Onion,Winter,7,32,1,Average,65
+Cauliflower,Winter,8,13,0,Average,41
+Cucumber,Winter,10,28,1,Good,85
+Tomato,Monsoon,6,20,1,Poor,99
+Onion,Summer,10,32,1,Good,113
+Ladyfinger,Spring,12,10,1,Average,115
+Cucumber,Winter,5,34,1,Good,112
+Beans,Spring,6,29,1,Poor,118
+Beans,Summer,11,12,0,Poor,72
+Onion,Summer,10,45,1,Poor,91
+Bitter Gourd,Monsoon,9,43,0,Poor,58
+Radish,Summer,1,44,0,Poor,22
+Radish,Winter,9,24,1,Average,66
+Peas,Spring,4,31,0,Average,61
+Carrot,Spring,5,36,0,Poor,51
+Cauliflower,Monsoon,4,30,0,Average,43
+Cabbage,Winter,3,33,1,Average,46
+Bitter Gourd,Summer,7,13,0,Average,52
+Carrot,Summer,5,30,1,Good,119
+Spinach,Spring,10,24,0,Average,29
+Capsicum,Summer,11,10,0,Poor,83
+Spinach,Monsoon,11,32,0,Average,20
+Capsicum,Winter,4,20,1,Average,138
+Peas,Spring,11,40,1,Poor,88
+Potato,Monsoon,3,20,1,Average,90
+Spinach,Summer,10,33,1,Average,86
+Bitter Gourd,Monsoon,4,35,1,Good,141
+Cucumber,Spring,7,26,0,Good,55
+Beans,Spring,11,13,0,Poor,51
+Radish,Summer,10,10,1,Good,108
+Beans,Summer,8,40,0,Average,87
+Bitter Gourd,Summer,3,15,0,Poor,46
+Potato,Monsoon,6,32,1,Good,94
+Radish,Spring,5,31,0,Good,45
+Potato,Winter,10,17,0,Average,32
+Onion,Monsoon,12,21,0,Average,35
+Peas,Winter,12,21,0,Average,67
+Carrot,Summer,2,38,1,Good,143

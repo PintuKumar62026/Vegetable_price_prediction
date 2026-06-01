@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vegetable Price Prediction</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        body{
+            background:#f4f7fc;
+        }
+
+        .card{
+            margin-top:40px;
+            border-radius:15px;
+            box-shadow:0 4px 12px rgba(0,0,0,0.1);
+        }
+
+        .title{
+            color:#198754;
+            font-weight:bold;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+    <div class="card p-4">
+
+        <h2 class="text-center title">
+            🥬 Vegetable Price Prediction System
+        </h2>
+
+        <form action="/predict" method="POST">
+
+            <div class="row mt-3">
+
+                <!-- Vegetable -->
+                <div class="col-md-6">
+                    <label class="form-label">Vegetable</label>
+
+                    <select name="Vegetable" class="form-control" required>
+
+                        <option value="" disabled {% if not selected_vegetable %}selected{% endif %}>
+                            Select Vegetable
+                        </option>
+
+                        <option value="Tomato" {% if selected_vegetable=="Tomato" %}selected{% endif %}>Tomato</option>
+                        <option value="Potato" {% if selected_vegetable=="Potato" %}selected{% endif %}>Potato</option>
+                        <option value="Onion" {% if selected_vegetable=="Onion" %}selected{% endif %}>Onion</option>
+                        <option value="Ladyfinger" {% if selected_vegetable=="Ladyfinger" %}selected{% endif %}>Ladyfinger</option>
+                        <option value="Brinjal" {% if selected_vegetable=="Brinjal" %}selected{% endif %}>Brinjal</option>
+                        <option value="Carrot" {% if selected_vegetable=="Carrot" %}selected{% endif %}>Carrot</option>
+                        <option value="Cabbage" {% if selected_vegetable=="Cabbage" %}selected{% endif %}>Cabbage</option>
+                        <option value="Cauliflower" {% if selected_vegetable=="Cauliflower" %}selected{% endif %}>Cauliflower</option>
+                        <option value="Spinach" {% if selected_vegetable=="Spinach" %}selected{% endif %}>Spinach</option>
+                        <option value="Peas" {% if selected_vegetable=="Peas" %}selected{% endif %}>Peas</option>
+                        <option value="Cucumber" {% if selected_vegetable=="Cucumber" %}selected{% endif %}>Cucumber</option>
+                        <option value="Pumpkin" {% if selected_vegetable=="Pumpkin" %}selected{% endif %}>Pumpkin</option>
+                        <option value="Beans" {% if selected_vegetable=="Beans" %}selected{% endif %}>Beans</option>
+                        <option value="Capsicum" {% if selected_vegetable=="Capsicum" %}selected{% endif %}>Capsicum</option>
+                        <option value="Radish" {% if selected_vegetable=="Radish" %}selected{% endif %}>Radish</option>
+                        <option value="Bottle Gourd" {% if selected_vegetable=="Bottle Gourd" %}selected{% endif %}>Bottle Gourd</option>
+                        <option value="Bitter Gourd" {% if selected_vegetable=="Bitter Gourd" %}selected{% endif %}>Bitter Gourd</option>
+
+                    </select>
+                </div>
+
+                <!-- Season -->
+                <div class="col-md-6">
+                    <label class="form-label">Season</label>
+
+                    <select name="Season" class="form-control" required>
+
+                        <option value="Winter" {% if selected_season=="Winter" %}selected{% endif %}>Winter</option>
+                        <option value="Summer" {% if selected_season=="Summer" %}selected{% endif %}>Summer</option>
+                        <option value="Monsoon" {% if selected_season=="Monsoon" %}selected{% endif %}>Monsoon</option>
+                        <option value="Spring" {% if selected_season=="Spring" %}selected{% endif %}>Spring</option>
+
+                    </select>
+                </div>
+
+            </div>
+
+            <div class="row mt-3">
+
+                <!-- Month -->
+                <div class="col-md-4">
+                    <label class="form-label">Month (1-12)</label>
+
+                    <input
+                        type="number"
+                        class="form-control"
+                        name="Month"
+                        min="1"
+                        max="12"
+                        value="{{ selected_month }}"
+                        required>
+                </div>
+
+                <!-- Temperature -->
+                <div class="col-md-4">
+                    <label class="form-label">Temperature (°C)</label>
+
+                    <input
+                        type="number"
+                        class="form-control"
+                        name="Temp"
+                        min="10"
+                        max="45"
+                        value="{{ selected_temp }}"
+                        required>
+                </div>
+
+                <!-- Disaster -->
+                <div class="col-md-4">
+                    <label class="form-label">Disaster</label>
+
+                    <select name="Disaster" class="form-control">
+
+                        <option value="0" {% if selected_disaster=="0" %}selected{% endif %}>No</option>
+
+                        <option value="1" {% if selected_disaster=="1" %}selected{% endif %}>Yes</option>
+
+                    </select>
+                </div>
+
+            </div>
+
+            <div class="row mt-3">
+
+                <!-- Condition -->
+                <div class="col-md-12">
+                    <label class="form-label">Condition</label>
+
+                    <select name="Condition" class="form-control">
+
+                        <option value="Poor" {% if selected_condition=="Poor" %}selected{% endif %}>Poor</option>
+
+                        <option value="Average" {% if selected_condition=="Average" %}selected{% endif %}>Average</option>
+
+                        <option value="Good" {% if selected_condition=="Good" %}selected{% endif %}>Good</option>
+
+                    </select>
+                </div>
+
+            </div>
+
+            <div class="text-center mt-4">
+                <button class="btn btn-success btn-lg">
+                    Predict Price
+                </button>
+            </div>
+
+        </form>
+
+        {% if prediction_text %}
+        <div class="alert alert-success mt-4 text-center">
+            <h4>{{ prediction_text }}</h4>
+        </div>
+        {% endif %}
+
+    </div>
+
+</div>
+
+</body>
+</html>
